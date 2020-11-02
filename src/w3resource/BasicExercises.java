@@ -9,15 +9,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class BasicExercises {
-	
-	
-	
-	//private static String r;
-
-
 
 	/*
-	 * Write a Java program to reverse a String
+	 * Write a Java program to count the number of even and odd elements in a given array of integers.
 	 * 
 	 */
 	
